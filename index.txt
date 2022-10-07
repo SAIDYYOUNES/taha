@@ -9,3 +9,6 @@ staged
 commit
 
 stage a file : add 
+
+pijzoiazjd"
+
