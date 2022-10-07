@@ -6,6 +6,9 @@ git =>
 
 staged
 taha
+
+btata 7lowa
+
 commit
 
 stage a file : add 
