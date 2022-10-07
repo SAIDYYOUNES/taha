@@ -5,7 +5,7 @@ version control tool
 git =>
 
 staged
-
+taha
 commit
 
 stage a file : add 
